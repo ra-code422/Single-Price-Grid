@@ -21,9 +21,8 @@ Ce projet consiste à réaliser une carte de tarification moderne et responsive 
 
 ## Structure du projet
 
-projet
-│
-├── index.html
-├── style.css 
-└── README.md 
+### Single-Price-Grid
+- index.html
+- style.css 
+- README.md 
 
