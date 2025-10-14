@@ -1,5 +1,7 @@
 # Description
-Ce projet consiste à réaliser une carte de tarification moderne et responsive en HTML et CSS. L'objectif est de présenter une offre d'abonnement claire, avec une section principale pour le prix et une section secondaire expliquant les avantages du service.
+
+Ce projet consiste à réaliser une carte de tarification moderne et responsive en HTML et CSS.
+ L'objectif est de présenter une offre d'abonnement claire, avec une section principale pour le prix et une section secondaire expliquant les avantages du service.
 ---
 
 ## Fonctionnalités
