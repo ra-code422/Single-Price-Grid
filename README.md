@@ -28,3 +28,5 @@ Ce projet consiste à réaliser une carte de tarification moderne et responsive 
 - style.css 
 - README.md 
 
+![image](./image.png)
+
